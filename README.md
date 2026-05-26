@@ -12,6 +12,7 @@ This project is a full-stack decentralized payroll system that allows employers 
 ## 📁 Project Structure
 
 
+```
 payroll-dapp/
 ├── backend/
 │ ├── src/
@@ -30,7 +31,7 @@ payroll-dapp/
 ├── hardhat.config.js
 ├── README.md
 └── .env
-
+```
 Create & Compile
 
 npx hardhat
